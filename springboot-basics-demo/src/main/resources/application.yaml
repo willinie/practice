@@ -1,0 +1,12 @@
+server:
+  port: 8082
+
+person:
+  name: David
+  age: 32
+
+address:
+  - Beijing
+  - Shanghai
+
+testString: "testing..."
